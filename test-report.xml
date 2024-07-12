@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/rtj/Downloads/react-sonarqube-main/src/App.test.tsx">
+    <testCase name="renders learn react link" duration="85"/>
+  </file>
+</testExecutions>
